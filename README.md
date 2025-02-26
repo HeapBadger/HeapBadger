@@ -24,7 +24,6 @@ I am a Software Engineer with expertise in C, C++, and Python, with a strong foc
 
 ### 🎯 Current Goals & What I'm Learning:  
 - Deepening my understanding of Android internals, high performance computing and reverse engineering
-- Enhancing my skills in CTF binary exploitation challenges
 - Expanding my expertise in system performance tuning and security assessments
 
 ### ⚡ Fun Fact:
