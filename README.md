@@ -18,16 +18,12 @@ Here are some ideas to get you started:
 I am a Software Engineer with expertise in C, C++, and Python, with a strong focus on embedded systems and cybersecurity. 
 
 ### 🚀 What I Do:  
-- Design and implement efficient data structures, algorithms and design patterns
-- Engineer robust and scalable software solutions across various domains
-- Analyze and optimize system security and performance
+- Developing software for embedded platforms and operating systems, with a focus on performance, reliability, and cross-compatibility
+- Bridging the gap between hardware and software—working with Bluetooth protocols, firmware, and embedded Linux environments
+- Deconstructing how things work (and how they break) through reverse engineering, firmware analysis, and custom tooling
 
 ### 🎯 Current Goals & What I'm Learning:  
-- Deepening my understanding of Android internals, high performance computing and reverse engineering
-- Expanding my expertise in system performance tuning and security assessments
-
-### ⚡ Fun Fact:
-
-???
+- Advanced performance tuning, reverse engineering techniques, and Android under-the-hood mechanics
+- Embedded Linux, high-performance computing strategies, and offensive security tooling
 
 ---
