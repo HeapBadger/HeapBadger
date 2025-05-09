@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋  
 
-I am a Software Engineer with expertise in C, C++, and Python, with a strong focus on embedded systems and cybersecurity. 
+I am a Software Engineer with expertise in C, Golang, C++, and Python.
 
 ### 🚀 What I Do:  
 - Developing software for embedded platforms and operating systems, with a focus on performance, reliability, and cross-compatibility
