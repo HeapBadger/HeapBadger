@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 
 ## Hi there 👋  
 
-I am a Software Engineer with expertise in C, Golang, C++, and Python.
+I'm a Software Engineer specializing in low-level development across C, Golang, C++, and Python.
 
 ### 🚀 What I Do:  
-- Developing software for embedded platforms and operating systems, with a focus on performance, reliability, and cross-compatibility
-- Bridging the gap between hardware and software—working with Bluetooth protocols, firmware, and embedded Linux environments
-- Deconstructing how things work (and how they break) through reverse engineering, firmware analysis, and custom tooling
+- Build software for embedded platforms and operating systems with a focus on performance, reliability, and hardware integration
+- Develop tooling that bridges hardware and software—ranging from embedded Linux systems to Bluetooth and protocol-level development
+- Explore system internals through reverse engineering, firmware analysis, and custom debugging tools
 
 ### 🎯 Current Goals & What I'm Learning:  
-- Advanced performance tuning, reverse engineering techniques, and Android under-the-hood mechanics
-- Embedded Linux, high-performance computing strategies, and offensive security tooling
+- Advanced reverse engineering techniques and low-level system performance tuning
+- Embedded Linux, hardware-software interaction, and network protocol tooling
+- Offensive security tooling and the mechanics of modern operating systems (e.g., Android internals)
 
 ---
