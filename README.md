@@ -19,12 +19,11 @@ I'm a Software Engineer specializing in low-level development across C, Golang, 
 
 ### 🚀 What I Do:  
 - Build software for embedded platforms and operating systems with a focus on performance, reliability, and hardware integration
-- Develop tooling that bridges hardware and software—ranging from embedded Linux systems to Bluetooth and protocol-level development
+- Write tooling for wireless protocols — Bluetooth and WiFi — bridging hardware and software at the protocol level
 - Explore system internals through reverse engineering, firmware analysis, and custom debugging tools
 
 ### 🎯 Current Goals & What I'm Learning:  
-- Advanced reverse engineering techniques and low-level system performance tuning
-- Embedded Linux, hardware-software interaction, and network protocol tooling
-- Offensive security tooling and the mechanics of modern operating systems (e.g., Android internals)
+- Reverse engineering techniques and Android internals
+- Offensive security tooling and the mechanics of modern operating systems
 
 ---
